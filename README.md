@@ -1,2 +1,2 @@
-# AWS-Rekognition
-Computer Vision
+# Counter App
+Flutter
